@@ -7,7 +7,7 @@
   "description": "UI Builder lets you visually create and edit UI using UIElements, UXML, and USS.\n\nYou can open the UI Builder via the main menu: Window > UI > UI Builder",
   "repository": {
     "type": "git",
-    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.ui.builder.git",
+    "url": "https://github.com/UnityDanWaller/UIBuilderPackage.git",
     "revision": "0fbbe75647ecbb5bf81fb0d120b4b02ec060f63f"
   },
   "samples": [
